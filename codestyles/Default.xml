@@ -1,0 +1,10 @@
+<code_scheme name="Default" version="173">
+  <HTMLCodeStyleSettings>
+    <option name="HTML_ATTRIBUTE_WRAP" value="0" />
+    <option name="HTML_TEXT_WRAP" value="0" />
+  </HTMLCodeStyleSettings>
+  <PHPCodeStyleSettings>
+    <option name="ALIGN_KEY_VALUE_PAIRS" value="true" />
+    <option name="ALIGN_ASSIGNMENTS" value="true" />
+  </PHPCodeStyleSettings>
+</code_scheme>

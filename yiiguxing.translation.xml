@@ -1,0 +1,17 @@
+<application>
+  <component name="AppStorage">
+    <histories>
+      <item value="含税" />
+      <item value="答案" />
+      <item value="题库" />
+      <item value="昨天" />
+      <item value="分钟" />
+    </histories>
+    <option name="languageScores">
+      <map>
+        <entry key="CHINESE" value="1" />
+        <entry key="ENGLISH" value="2" />
+      </map>
+    </option>
+  </component>
+</application>
