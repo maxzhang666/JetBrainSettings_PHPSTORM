@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="coupon" />
+      <item value="coupom" />
       <item value="含税" />
       <item value="答案" />
       <item value="题库" />
@@ -9,7 +11,7 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1" />
+        <entry key="CHINESE" value="2" />
         <entry key="ENGLISH" value="2" />
       </map>
     </option>
